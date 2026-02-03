@@ -8,4 +8,4 @@ Verso
 ![Logo Romger Carton](/images/carteDeVisiteLogo2026.jpg "Logo")
 
 recto mirroir
-![Logo Romger Carton](/images/carteDeVisiteLogo2026.mirroir.pdf "Logo")
+![Logo Romger Carton](/images/carteDeVisiteLogo2026.mirroir.svg "Logo")
